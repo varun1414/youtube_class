@@ -1,6 +1,6 @@
 # youtube_class
-Predicts the category the YT video falls in (i.e: 'Food', 'manufacturing', 'History', 'travel blog','Science&Technology', 'Art&Music').
-Predicts with an amazing accuracy of 93.93%!!
+-Predicts the category the YT video falls in (i.e: 'Food', 'manufacturing', 'History', 'travel blog','Science&Technology', 'Art&Music').
+-Predicts with an amazing accuracy of 93.93% (obviously without overfitting :p)!! (refer to classifier notebook)
 
 # Features yet to be added:
 - UI
